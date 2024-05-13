@@ -4,7 +4,7 @@ public class prog6 {
 
     public static <string> void main(String[] args) {
 
-        // comment
+        // comment 1
         int month=4;
 
         string season ;

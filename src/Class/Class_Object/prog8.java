@@ -1,4 +1,4 @@
-package Java_Practice.Class_Object;
+package Class.Class_Object;
 
 public class prog8 { //  Class name
 

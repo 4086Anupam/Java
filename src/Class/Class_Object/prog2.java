@@ -1,4 +1,4 @@
-package Java_Practice.Class_Object;
+package Class.Class_Object;
 
 public class prog2 { // class name
     int width; // Instance Variable

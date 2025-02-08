@@ -3,6 +3,7 @@ package OOPS.Encapsulation;
 public class Student1 {
     private String name;
     private int age;
+   private  int roll;
 
    public Student1(){
 
